@@ -1,3 +1,4 @@
+[![Board Status](https://dev.azure.com/mynameisrexson/5e09c4fb-108d-45fb-8bb9-2ae317076436/bea6a378-52bc-4998-a594-e8e52dd097e0/_apis/work/boardbadge/ec71c3a1-88c1-440a-84c0-1c3f00812aee)](https://dev.azure.com/mynameisrexson/5e09c4fb-108d-45fb-8bb9-2ae317076436/_boards/board/t/bea6a378-52bc-4998-a594-e8e52dd097e0/Microsoft.RequirementCategory)
 # Azure DevOps Extension for Azure CLI
 
 [![Build Status](https://dev.azure.com/ms/azure-devops-cli-extension/_apis/build/status/Azure%20DevOps%20CLI%20-%20Merge%20GitHub?branchName=master)](https://dev.azure.com/ms/azure-devops-cli-extension/_build/latest?definitionId=39&branchName=master)
